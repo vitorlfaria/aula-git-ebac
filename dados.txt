@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Vitor
+-Profissão: Editor Audiovisual / Designer
+-Cidade: Curitiba
+-O que faz nas horas vaga: Assisto filmes e séries
+-Feedback sobre o curso Qualidade de Software: Estou gostando e aprendendo bastante
+-Feedback sobre a plataforma de estudo da EBAC: Gostei da plataforma. Um problema que tem que é bem chatinho é que não marca as aulas como concluidas na primeira vez que assisto, eu sempre tenho que atualizar a página, dar play de novo e pular pro final da aula pra ela ser marcada como concluída.
 
 Obrigado!!!
 
